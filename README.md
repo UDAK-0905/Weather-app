@@ -1,16 +1,38 @@
 # 🌦 Weather App
 
-A simple weather app that displays real-time weather info using the OpenWeatherMap API.
+A simple weather application that lets users check the current weather of any city using the OpenWeatherMap API.
 
-## Features
-- Get current temperature, humidity, and wind speed
-- Clean and responsive UI
-- Built using HTML, CSS, JavaScript
+## 🚀 Features
 
-## How to Run
-1. Clone the repo
-2. Replace `YOUR_API_KEY` in `script.js` with your OpenWeatherMap key
-3. Open `index.html` in your browser
+- 🌤 Real-time weather data
+- 📍 Search by city name
+- 📊 Shows temperature, humidity, and wind speed
 
-## Demo
-[Live Weather App 🌦](https://UDAK-0905.github.io/Weather-app)
+## 🛠 Tech Stack
+
+- HTML, CSS, JavaScript
+- OpenWeatherMap API
+- GitHub Pages for deployment
+- 
+## 📸 Preview
+
+![App Screenshot](screenshot.png)
+
+## 🔗 Live Site
+
+[Live Site Link](https://UDAK-0905.github.io/Weather-app/)
+
+## 📌 How to Use
+
+1. Type a city name in the input box.
+2. Click the search button.
+3. View the current weather information.
+
+## 🧠 Learnings
+
+This project helped me understand:
+- How to work with APIs in JavaScript
+- DOM manipulation and async/await
+- Hosting a site with GitHub Pages
+
+---
