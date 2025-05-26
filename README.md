@@ -13,5 +13,4 @@ A simple weather app that displays real-time weather info using the OpenWeatherM
 3. Open `index.html` in your browser
 
 ## Demo
-[Live Site Link](https://UDAK-0905.github.io/Weather-app)
-"# Weather-app" 
+[Live Weather App 🌦](https://UDAK-0905.github.io/Weather-app)
